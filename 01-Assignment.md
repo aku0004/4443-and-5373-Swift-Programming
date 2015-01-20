@@ -13,7 +13,7 @@ As with most other distributed revision control systems, and unlike most clientâ
 #### Why github for this course?
 
 We will be using github this semester as a means of communicating, storing documents (assignments and programs), as well as 
-a means to push files to your very own server (using web hooks)! 
+a means to push keep your files in a central repository if your using one of the machines in the Mac lab (Bolin 120).
 
 #### Create a Github account. 
 - When you create a Github account, you must choose a `username`. 
@@ -27,6 +27,11 @@ a means to push files to your very own server (using web hooks)!
 #### Edit the README.md 
 
 - Edit the readme file on github and place your contact information inside along with a picture of you. NOT an avatar.
+- Your readme should include:
+    - Your image
+    - Your first and last name
+    - Your email address
+    - Your website (if you have one)
 
 
 #### Send me an email:
