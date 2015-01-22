@@ -27,13 +27,9 @@ httpError404.0
 httpError404.1
 
 // Alternatively, you can name the elements of a Tuple
-var namedTuple = (statusCode: 404, message: "Not found")
+let namedTuple = (statusCode: 404, message: "Not found")
 
 // When you name the elements you effectively assign names to their indices, so the dot operator
 // works with names or integers:
-namedTuple.statusCode = Int(300)
+namedTuple.statusCode == namedTuple.0
 namedTuple.message == namedTuple.1
-
-println ("Value: \(namedTuple.statusCode)")
-
-
