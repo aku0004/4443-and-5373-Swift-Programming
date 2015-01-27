@@ -13,6 +13,6 @@ The playground snippets were copied from Paul Nettle's repository:
 
 #### Starting Text Book
 
-http://www.raywenderlich.com/store/swift-by-tutorials
+- http://www.raywenderlich.com/store/swift-by-tutorials
 
 ![](http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/Swift-PDF-phones-640.png)
