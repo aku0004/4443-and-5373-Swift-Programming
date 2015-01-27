@@ -7,4 +7,12 @@ Spring 2015 attempt to learn and teach Swift programming.
 
 #### Playground Snippets
 
-The playground snippets were copied from Paul Nettle's repository: https://github.com/nettlep/learn-swift
+The playground snippets were copied from Paul Nettle's repository: 
+
+- https://github.com/nettlep/learn-swift
+- 
+#### Starting Text Book
+
+- http://www.raywenderlich.com/store/swift-by-tutorials
+
+[](http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/Swift-PDF-phones-640.png)
