@@ -12,6 +12,9 @@ Spring 2015 attempt to learn and teach Swift programming.
 ![](http://cdn2.raywenderlich.com/wp-content/themes/raywenderlich/images/store/Swift-PDF-phones-640.png)
 
 
+#### Interacting with IOS Simulator
+
+https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/iOS_Simulator_Guide/InteractingwiththeiOSSimulator/InteractingwiththeiOSSimulator.html
 
 The playground snippets were copied from Paul Nettle's repository: 
 
