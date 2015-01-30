@@ -4,11 +4,14 @@ let interestingNumbers = [
     "Square": [1, 4, 9, 16, 25],
 ]
 var largest = 0
+var type = ""
 for (kind, numbers) in interestingNumbers {
     for number in numbers {
         if number > largest {
             largest = number
+            type = kind
         }
     }
 }
 println(largest)
+println(type)

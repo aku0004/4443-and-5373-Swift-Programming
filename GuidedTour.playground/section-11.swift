@@ -4,7 +4,8 @@ let appleSummary = "I have \(apples) apples."
 let fruitSummary = "I have \(apples + oranges) pieces of fruit."
 let x: Float = 5
 let y: Float = 8
-let mystring = "The floating point sum = \(x + y)"
+var name = "fred"
+
 
 
 
