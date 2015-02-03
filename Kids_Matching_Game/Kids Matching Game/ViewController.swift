@@ -89,13 +89,11 @@ class ViewController: UIViewController {
             btnAnswer1.setTitle(correctImageName, forState: UIControlState.Normal)
             btnAnswer2.setTitle(wrongImageName, forState:  UIControlState.Normal)
             button1Correct = true
-            
         }else{
             btnAnswer2.setTitle(correctImageName, forState: UIControlState.Normal)
             btnAnswer1.setTitle(wrongImageName, forState:  UIControlState.Normal)
             button2Correct = true
         }
-        
         
         return true
     }

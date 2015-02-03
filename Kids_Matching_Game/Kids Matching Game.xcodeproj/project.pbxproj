@@ -209,6 +209,7 @@
 				TargetAttributes = {
 					85322ED21A7AFBFC008FF248 = {
 						CreatedOnToolsVersion = 6.1.1;
+						DevelopmentTeam = 5759AXAR43;
 					};
 					85322EE71A7AFBFD008FF248 = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -471,6 +472,7 @@
 				85322EF41A7AFBFD008FF248 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		85322EF51A7AFBFD008FF248 /* Build configuration list for PBXNativeTarget "Kids Matching GameTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +481,7 @@
 				85322EF71A7AFBFD008FF248 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
