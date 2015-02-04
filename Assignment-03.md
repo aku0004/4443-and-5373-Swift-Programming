@@ -9,7 +9,7 @@
 
 - Find the code block:
 
-```
+```swift
 //Run alamo library get request to grab the json data
 Alamofire.request(.GET, url)
     .responseJSON { (req, res, json, error) in
