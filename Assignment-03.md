@@ -1,4 +1,7 @@
-### First Program
+### First Assignment
+#### Due: 5 Feb 15 by class time.
+
+### Instructions:
 
 - Copy the xcode project called `Color_Game_for_Kids` from [here](https://github.com/rugbyprof/4443-and-5373-Swift-Programming/tree/master/InClassCode).
 - It should run in xcode straight away showing you something like this:
@@ -37,3 +40,8 @@ Alamofire.request(.GET, url)
 ```
 
 And answer the question.
+
+### Submit Answer
+
+- Simply commit your updated project code to your github repo. If the project is not in your repo, then I won't grade it. 
+
